@@ -1,5 +1,8 @@
-# Projeto imob
+# Projeto Back-end-template
 Iniciar projeto imob-back
+## Descrição
+Esse é um projeto POO com bibliotecas que permitem extrair o que a de melhor do desenvolvimento Back-end com NodeJs, esse projeto está 100% em português para melhorar a abstração de
+programadores iniciantes. 
 
 ## Inicializando o projeto
 1. Run `npm run dev`
